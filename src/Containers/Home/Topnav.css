@@ -1,0 +1,43 @@
+.topnav_container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topnav_logo {
+    width: 10%;
+    font-weight: 800;
+    font-size: 30px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.topnav_list {
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.list_item {
+    list-style: none;
+}
+
+.topnav_input {
+    width: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+.topnav_cart_container {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cart_container_first {
+    margin-right: 20px;
+}
